@@ -1,0 +1,36 @@
+{
+  "venue": {
+    "id": "mira-dining",
+    "name": "Mira Dining",
+    "location": "The Mira Hong Kong, Tsim Sha Tsui"
+  },
+  "date": "2026-04-28",
+  "time_slots": [
+    {
+      "slot": "12:00-14:00",
+      "label": "Lunch",
+      "total_tables": 40,
+      "booked_tables": 12,
+      "available_tables": 28,
+      "occupancy_pct": 30
+    },
+    {
+      "slot": "18:00-20:00",
+      "label": "Dinner A",
+      "total_tables": 40,
+      "booked_tables": 15,
+      "available_tables": 25,
+      "occupancy_pct": 37.5
+    },
+    {
+      "slot": "20:00-22:00",
+      "label": "Dinner B",
+      "total_tables": 40,
+      "booked_tables": 32,
+      "available_tables": 8,
+      "occupancy_pct": 80
+    }
+  ],
+  "overall_occupancy_pct": 49.2,
+  "discount_tier": "85_off"
+}

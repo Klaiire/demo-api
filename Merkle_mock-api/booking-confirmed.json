@@ -1,0 +1,10 @@
+{
+  "reservation_id": "MD-20260428-019",
+  "status": "confirmed",
+  "venue": "Mira Dining",
+  "date": "2026-04-28",
+  "time": "19:00",
+  "party_size": 4,
+  "guest_name": "David Chan",
+  "message": "Reservation confirmed"
+}
